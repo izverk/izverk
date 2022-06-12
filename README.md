@@ -25,10 +25,11 @@
 
 ### :sparkles: Чем я ещё увлекаюсь:
 <div>
-<img id="guitar" src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" alt="Гитара" width="40px" height="40px">
-<img id="swimmer" src="https://media.giphy.com/media/lkbRmoQ3qc9A9ei4UV/giphy.gif" alt="Бассейн" width="40px" height="40px">
-<img id="fisher" src="https://media.giphy.com/media/oVptPWVH26gSvClKX5/giphy.gif" alt="Рыбалка" width="40px" height="40px">
-<img id="movies" src="https://media.giphy.com/media/3oEjHKELgSBF6JEbhC/giphy.gif" alt="Фильмы" width="40px" height="40px">
+<img src="https://media.giphy.com/media/xTiTnnnWvRXTeXx3wc/giphy.gif" alt="Гитара" width="40px" height="40px">
+<img src="https://media.giphy.com/media/MbMBoPpI3MS44vkUTS/giphy.gif" alt="Микрофон" width="40px" height="40px">
+<img src="https://media.giphy.com/media/lkbRmoQ3qc9A9ei4UV/giphy.gif" alt="Бассейн" width="40px" height="40px">
+<img src="https://media.giphy.com/media/oVptPWVH26gSvClKX5/giphy.gif" alt="Рыбалка" width="40px" height="40px">
+<img src="https://media.giphy.com/media/3oEjHKELgSBF6JEbhC/giphy.gif" alt="Фильмы" width="40px" height="40px">
 </div>    
       
 ### :phone: Как связаться со мной:
