@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=izverk&style=flat-square&color=blue" alt=""/>
+
 ### :wave: Привет! Меня зовут Илья!
 - :seedling: изучаю программирование
 - :mortar_board: закончил курс Веб-разработчик в Яндекс.Практикуме
@@ -35,5 +37,3 @@
 ### :phone: Как связаться со мной:
 Телеграм: https://t.me/ZIL78/  
 E-mail: izverk78@yandex.ru
-
-<img src="https://komarev.com/ghpvc/?username=izverk&style=flat-square&color=blue" alt=""/>
